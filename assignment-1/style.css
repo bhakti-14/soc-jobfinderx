@@ -1,0 +1,30 @@
+body{
+  background-image: url(ranger-4df6c1b6.png);
+}
+
+h3{ border: 2px ;
+   border radius : 25px;
+   
+ padding: 10px 10px 10px 10px;
+ 
+   background-image: 
+url(pngtree-sky-blue-gradient-background-download-image_210615.jpg);
+}
+
+pre{
+  font-family : Arial;
+}
+
+table,th,td {
+  border:2px solid;
+  width:100%;
+  border-collapse : collapse;
+}
+
+th,td{
+  width :  30px;
+}
+
+tr:hover {
+  background-image: url(pngtree-sky-blue-gradient-background-download-image_210615.jpg);
+}
